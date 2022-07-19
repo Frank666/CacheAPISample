@@ -1,0 +1,12 @@
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Cache\Cache.Utils\bin\Debug\net5.0\Cache.Utils.deps.json
+C:\Users\Frank\source\repos\Cache\Cache.Utils\bin\Debug\net5.0\Cache.Utils.dll
+C:\Users\Frank\source\repos\Cache\Cache.Utils\bin\Debug\net5.0\ref\Cache.Utils.dll
+C:\Users\Frank\source\repos\Cache\Cache.Utils\bin\Debug\net5.0\Cache.Utils.pdb
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.dll
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\ref\Cache.Utils.dll
+C:\Users\Frank\source\repos\Cache\Cache.Utils\obj\Debug\net5.0\Cache.Utils.pdb
